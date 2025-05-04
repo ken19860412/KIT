@@ -1,21 +1,16 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>私のホームページ</title>
+  <title>Kenichiro International Trade Co., Limited</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <div class="container">
-    <h1>こんにちは、○○です！</h1>
-    <p>これは私のシンプルなホームページです。</p>
-    <p>好きなこと：読書、音楽、プログラミング</p>
-    <ul class="social">
-      <li><a href="https://twitter.com/yourname" target="_blank">Twitter</a></li>
-      <li><a href="mailto:your@email.com">メール</a></li>
-    </ul>
+    <h1>Welcome to Kenichiro International Trade Co., Limited</h1>
+    <p><strong>Address:</strong> Rm.1002, 10/F, Easey Comm. Bldg., 253-261 Hennessy Road, Wanchai, Hong Kong</p>
+    <p><strong>Phone:</strong> 00852-37854100</p>
+    <p><a href="zh.html">切換到繁體中文</a></p>
   </div>
 </body>
 </html>
-
